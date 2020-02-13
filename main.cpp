@@ -16,4 +16,5 @@ int main(){
 	func1();
 	func2();
 	cout << "modify in company" << endl;
+	cout << "modify in family" << endl;
 }
