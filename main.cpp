@@ -15,4 +15,5 @@ int main(){
 	cout<< "robot_test" << endl;
 	func1();
 	func2();
+	cout << "modify in company" << endl;
 }
